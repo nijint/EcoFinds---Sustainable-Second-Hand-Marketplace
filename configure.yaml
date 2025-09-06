@@ -1,0 +1,70 @@
+
+---
+
+## 📖 How to Use
+
+### ✅ Prerequisites
+- A modern web browser (Chrome, Firefox, Edge, Safari)
+- Internet connection (for API calls and authentication)
+
+### ✅ Steps to Run
+1. Download or clone this repository.
+2. Open the `index.html` file in your browser.
+3. Register or log in to create your account.
+4. Browse products, add them to your cart, and make purchases.
+
+### ✅ Deployment
+You can deploy this application by:
+- Uploading `index.html` to a static web host like Netlify or Vercel
+- Using GitHub Pages for free hosting
+
+---
+
+## 🔐 Authentication
+
+The app uses **Supabase** for handling user authentication and storing data. Make sure the API keys in the `index.html` file are correctly set.
+
+---
+
+## 📦 Features Breakdown
+
+### For Buyers
+- Browse products by categories
+- Add items to cart and checkout securely
+- View order history and manage account details
+
+### For Sellers
+- Create product listings with images and descriptions
+- Manage orders and track inventory
+- View sales and reviews dashboard
+
+### Admin Features (Optional)
+- Monitor user activity
+- Approve registrations or certifications
+
+---
+
+## 📂 Configuration
+
+The API keys and project URLs are set inside `index.html`. If you want to run this app yourself:
+1. Replace the Supabase URL and key with your own from [Supabase](https://supabase.com).
+2. Update any third-party API keys if used.
+3. Host the file on any static server.
+
+---
+
+## 📬 Support & Contribution
+
+For feedback, bug reports, or improvements:
+- Open an issue on GitHub  
+- Submit a pull request  
+- Contact: [youremail@example.com]
+
+Let’s build a community around sustainable shopping! 🌱
+
+---
+
+## 📜 License
+
+MIT License – feel free to use, modify, and distribute this project responsibly.
+
