@@ -111,8 +111,8 @@ To become the go-to platform for sustainable shopping globally — driving aware
 - Chart.js for analytics  
 
 ### Backend
-- Node.js & Express  
-- PostgreSQL (or your preferred database)  
+- JavaScript & Express  
+- Supabse  
 - JWT for authentication  
 - Multer for file uploads  
 - Express Validator for input validation  
