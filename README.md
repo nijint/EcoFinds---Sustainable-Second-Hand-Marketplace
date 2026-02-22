@@ -133,5 +133,5 @@ To become the go-to platform for sustainable shopping globally — driving aware
 
 ### Clone the repository
 ```bash
-git clone https://github.com/tnijin123/EcoFinds---Sustainable-Second-Hand-Marketplace.git
+git clone https://github.com/nijint/EcoFinds---Sustainable-Second-Hand-Marketplace.git
 cd EcoFinds---Sustainable-Second-Hand-Marketplace
