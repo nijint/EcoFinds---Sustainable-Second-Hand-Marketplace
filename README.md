@@ -1,5 +1,5 @@
 # EcoFinds---Sustainable-Second-Hand-Marketplace
-It is a modern, responsive web application designed to empower sustainability with tools, insights, and community support. Built with HTML, TailwindCSS, and Supabase, it provides buyers with easy access to resources, task tracking, market trends, and success stories – all in one place.
+Ecofinds is a modern, responsive web application designed to empower sustainability with tools, insights, and community support. Built with HTML, TailwindCSS, and Supabase, it provides buyers with easy access to resources, task tracking, market trends, and success stories – all in one place.
 # EcoFinds 🌱  
 **Sustainable Second-Hand Marketplace Platform**
 
